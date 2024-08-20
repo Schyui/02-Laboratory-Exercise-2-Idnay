@@ -1,0 +1,7 @@
+H:\Idnay_Harvey\ComputeAverageApp\ComputeAverageApp\bin\Debug\ComputeAverageApp.exe.config
+H:\Idnay_Harvey\ComputeAverageApp\ComputeAverageApp\bin\Debug\ComputeAverageApp.exe
+H:\Idnay_Harvey\ComputeAverageApp\ComputeAverageApp\bin\Debug\ComputeAverageApp.pdb
+H:\Idnay_Harvey\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.csproj.AssemblyReference.cache
+H:\Idnay_Harvey\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.csproj.CoreCompileInputs.cache
+H:\Idnay_Harvey\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.exe
+H:\Idnay_Harvey\ComputeAverageApp\ComputeAverageApp\obj\Debug\ComputeAverageApp.pdb
